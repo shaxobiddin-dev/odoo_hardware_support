@@ -27,7 +27,7 @@ A simple and lightweight Odoo module to manage IT hardware assets inside your co
 LGPL-3
 
 ## 👤 Author
-Your Name
+Abdusalomov Shaxobiddin
 
 ## 🌐 Website
 https://www.todoo.uz
