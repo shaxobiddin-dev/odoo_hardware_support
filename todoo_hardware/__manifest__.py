@@ -48,7 +48,7 @@
             'it_hardware/static/src/js/my_tour.js',
         ],
     },
-    'images': ['images/main.png'],
+    'images': ['static/description/images/main.png'],
     'installable': True,
     'application': True,
 }
