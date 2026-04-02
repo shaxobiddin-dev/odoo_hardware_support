@@ -45,7 +45,7 @@
     ],
     'assets': {
         'web.assets_backend': [
-            'it_hardware/static/src/js/my_tour.js',
+            'todoo_hardware/static/src/js/my_tour.js',
         ],
     },
     'images': ['static/description/images/main.png'],
