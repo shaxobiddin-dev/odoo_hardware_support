@@ -21,7 +21,6 @@
     ],
     'data': [
         'data/res_config_settings.xml',
-        'data/ir_attachment_pre.xml',
         'data/stock_picking_type.xml',
         'data/project_task_type.xml',
         'data/product_category.xml',
@@ -34,7 +33,6 @@
         'data/product_product.xml',
         'data/sale_order_template.xml',
         'data/sale_order_template_line.xml',
-        'data/knowledge_cover.xml',
         'data/knowledge_article.xml',
         'data/knowledge_article_favorite.xml',
         'data/mail_message.xml',
