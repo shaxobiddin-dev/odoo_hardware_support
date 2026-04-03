@@ -6,6 +6,8 @@
     'author': 'Abdusalomov Shaxobiddin',
     'website': 'https://www.todoo.uz',
     'license': 'OPL-1',
+    'price': 1.0,
+    'currency': 'USD',
     'depends': [
         'account_followup',
         'helpdesk_repair',
