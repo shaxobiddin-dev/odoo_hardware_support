@@ -5,7 +5,7 @@
     'category': 'Services',
     'author': 'Abdusalomov Shaxobiddin',
     'website': 'https://www.todoo.uz',
-    'license': 'OEEL-1',
+    'license': 'OPL-1',
     'depends': [
         'account_followup',
         'helpdesk_repair',
