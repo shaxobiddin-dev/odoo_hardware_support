@@ -1,0 +1,30 @@
+{
+    'name': 'Telegram Send',
+    'version': '19.0.1.0.0',
+    'summary': 'Send text and PDF reports to Telegram from any Odoo record',
+    'category': 'Productivity',
+    'author': 'Abdusalomov Shaxobiddin',
+    'website': 'https://www.todoo.uz',
+    'license': 'OPL-1',
+    'price': 0.0,
+    'currency': 'USD',
+    'depends': ['mail', 'base'],
+    'data': [
+        'security/ir.model.access.csv',
+        'views/res_partner_views.xml',
+        'views/telegram_model_config_views.xml',
+        'views/telegram_message_log_views.xml',
+        'views/telegram_menus.xml',
+        'views/res_config_settings_views.xml',
+        'wizard/telegram_send_wizard_views.xml',
+    ],
+    'assets': {
+        'web.assets_backend': [
+            'telegram_send/static/src/chatter/web/chatter_patch.xml',
+            'telegram_send/static/src/chatter/web/chatter_patch.js',
+        ],
+    },
+    'images': ['static/description/screenshot_2_settings.png'],
+    'installable': True,
+    'application': False,
+}
